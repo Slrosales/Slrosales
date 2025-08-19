@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I'm a student at Uninorte and Ensimag, pursuing studies in Informatics, Systems Engineering, and the MoSIG program. My main interests are in Data Science, Data Analytics, Artificial Intelligence, and Backend development.
+I'm a student at Uninorte and Ensimag, pursuing studies in Systems Engineering, and the MoSIG program. My main interests are in Data Science/Artificial Intelligence, and Backend development.
 
 Over the past four years, I've also served as a programming instructor at Uninorte, teaching Java basics and Python for Data Analytics.
 
