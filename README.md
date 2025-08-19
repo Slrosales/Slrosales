@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Slrosales/Slrosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Uninorte and Ensimag, pursuing studies in Informatics, Systems Engineering, and the MoSIG program. My main interests are in Data Science, Data Analytics, Artificial Intelligence, and Backend development.
 
-Here are some ideas to get you started:
+Over the past four years, I've also served as a programming instructor at Uninorte, teaching Java basics and Python for Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Top Skills & Technologies
+
+- **Leadership:** Excellent at organizing teams and leveraging members' strengths.
+- **Programming:** Proficient in Python, and always eager to learn and work with other languages.
+
+---
+
+## 🚀 Featured Projects
+
+- **Huesitos**
+- **Air Quality ML**
+- **Colombianos-detenidos-en-el-exterior**
+- **HandCursor**
+
+---
+
+## 💬 Favorite Quote
+
+> "La fuerza de la manada es el lobo, y la fuerza del lobo es la manada."  
+> — Rudyard Kipling
+
+---
+
+## 🌟 Hobbies & Interests
+
+- Teaching
+- Learning new things
+- Capoeira
+- Skateboarding
+
+---
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=slrosales&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" alt="KMarcela11" />
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slrosales&layout=donut&theme=midnight-purple)
