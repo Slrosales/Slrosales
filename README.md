@@ -13,7 +13,7 @@ Over the past four years, I've also served as a programming instructor at Uninor
 
 ---
 
-## 🚀 Featured Projects
+## 📑 Featured Projects
 
 - **Huesitos**
 - **Air Quality ML**
